@@ -20,7 +20,7 @@ The site is no longer online.
 I don't know the author of the site, but I would like to. If someone knows it, contact me by Telegram/Reddit/Discord on channel toki-pona-taso. Then I will update copyright notice.
 
 
-![linja pi tomo lipu sample](linjapitomolipu.png)
+![linja pi tomo lipu sample](nimi-ali.png)
 
 
 
