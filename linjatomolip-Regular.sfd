@@ -3,8 +3,8 @@ FontName: linjatomolip-Regular
 FullName: linjatomolip-Regular
 FamilyName: linja pi tomo lipu
 Weight: Regular
-Copyright: Created using Inkscape and Fontforge By Pascal Guimier,\nCopyright (c) 2019 tomo-lipu.net.\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nInspired by tomo-lipu.net closed website.\nBased on the official toki pona book
-Version: 0.4
+Copyright: Created using Inkscape and Fontforge By Pascal Guimier (jan Talu),\nCopyright (c) 2019 tomo-lipu.net.\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nInspired by tomo-lipu.net closed website.\nBased on the official toki pona book
+Version: 0.5
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 50
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1578149709
-ModificationTime: 1578226369
+ModificationTime: 1638952281
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,13 +44,13 @@ Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard L
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: Original
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 9 7
+WinInfo: 0 8 7
 BeginPrivate: 0
 EndPrivate
 BeginChars: 283 283
@@ -71,8 +71,8 @@ EndSplineSet
 Validated: 9
 EndChar
 
-StartChar: aa,a.space,a.exclam
-Encoding: 1 -1 1
+StartChar: aa
+Encoding: 1 57344 1
 Width: 708
 Flags: HW
 LayerCount: 2
@@ -110,19 +110,18 @@ SplineSet
  98 127 102 132 110 132 c 0
 EndSplineSet
 Validated: 517
-LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a nbspace
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a period
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a a
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a space
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a exclam
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a comma
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a colon
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a nonmarkingreturn
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a colon
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a comma
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a exclam
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a space
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a a
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a period
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a nbspace
 EndChar
 
 StartChar: akesi
-Encoding: 2 -1 2
+Encoding: 2 57345 2
 Width: 850
 Flags: W
 LayerCount: 2
@@ -223,7 +222,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a k e s i
 EndChar
 
 StartChar: alasa
-Encoding: 3 -1 3
+Encoding: 3 57346 3
 Width: 850
 Flags: W
 LayerCount: 2
@@ -274,7 +273,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a l a s a
 EndChar
 
 StartChar: ala
-Encoding: 4 -1 4
+Encoding: 4 57347 4
 Width: 850
 Flags: W
 LayerCount: 2
@@ -308,9 +307,9 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a l a
 EndChar
 
 StartChar: ale
-Encoding: 5 -1 5
+Encoding: 5 57348 5
 Width: 850
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -358,13 +357,12 @@ SplineSet
  699 475 681 495 670 500 c 0
  666 502 661 504 655 503 c 0
 EndSplineSet
-Validated: 524289
-LCarets2: 2 0 0
+Validated: 1
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a l e
 EndChar
 
 StartChar: ali
-Encoding: 6 -1 6
+Encoding: 6 57349 6
 Width: 1024
 LayerCount: 2
 Fore
@@ -413,7 +411,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a l i
 EndChar
 
 StartChar: anpa
-Encoding: 7 -1 7
+Encoding: 7 57350 7
 Width: 850
 Flags: W
 LayerCount: 2
@@ -453,7 +451,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a n p a
 EndChar
 
 StartChar: ante
-Encoding: 8 -1 8
+Encoding: 8 57351 8
 Width: 850
 Flags: W
 LayerCount: 2
@@ -493,7 +491,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a n t e
 EndChar
 
 StartChar: anu
-Encoding: 9 -1 9
+Encoding: 9 57352 9
 Width: 850
 Flags: W
 LayerCount: 2
@@ -523,7 +521,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a n u
 EndChar
 
 StartChar: awen
-Encoding: 10 -1 10
+Encoding: 10 57353 10
 Width: 850
 Flags: W
 LayerCount: 2
@@ -556,8 +554,8 @@ Validated: 9
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" a w e n
 EndChar
 
-StartChar: ee,e.space
-Encoding: 11 -1 11
+StartChar: ee
+Encoding: 11 57354 11
 Width: 850
 Flags: W
 LayerCount: 2
@@ -593,13 +591,13 @@ SplineSet
  414.508648385 839.999995598 414.49817955 839.99999309 414.49173 839.99999 c 0
 EndSplineSet
 Validated: 521
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e nbspace
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e nonmarkingreturn
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e colon
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e period
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e comma
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e e
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e space
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e e
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e comma
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e period
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e colon
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e nonmarkingreturn
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e nbspace
 EndChar
 
 StartChar: en
@@ -641,7 +639,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e n
 EndChar
 
 StartChar: esun
-Encoding: 13 -1 13
+Encoding: 13 57355 13
 Width: 850
 Flags: W
 LayerCount: 2
@@ -716,7 +714,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" e s u n
 EndChar
 
 StartChar: ijo
-Encoding: 14 -1 14
+Encoding: 14 57356 14
 Width: 850
 Flags: W
 LayerCount: 2
@@ -746,7 +744,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" i j o
 EndChar
 
 StartChar: ike
-Encoding: 15 -1 15
+Encoding: 15 57357 15
 Width: 850
 Flags: W
 LayerCount: 2
@@ -775,7 +773,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" i k e
 EndChar
 
 StartChar: ilo
-Encoding: 16 -1 16
+Encoding: 16 57358 16
 Width: 850
 Flags: W
 LayerCount: 2
@@ -817,7 +815,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" i l o
 EndChar
 
 StartChar: insa
-Encoding: 17 -1 17
+Encoding: 17 57359 17
 Width: 850
 Flags: W
 LayerCount: 2
@@ -857,7 +855,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" i n s a
 EndChar
 
 StartChar: jaki
-Encoding: 18 -1 18
+Encoding: 18 57360 18
 Width: 850
 Flags: W
 LayerCount: 2
@@ -917,7 +915,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" j a k i
 EndChar
 
 StartChar: jan
-Encoding: 19 -1 19
+Encoding: 19 57361 19
 Width: 850
 Flags: W
 LayerCount: 2
@@ -956,7 +954,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" j a n
 EndChar
 
 StartChar: jelo
-Encoding: 20 -1 20
+Encoding: 20 57362 20
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1016,7 +1014,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" j e l o
 EndChar
 
 StartChar: jo
-Encoding: 21 -1 21
+Encoding: 21 57363 21
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1060,7 +1058,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" j o
 EndChar
 
 StartChar: kalama
-Encoding: 22 -1 22
+Encoding: 22 57364 22
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1118,7 +1116,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k a l a m a
 EndChar
 
 StartChar: kala
-Encoding: 23 -1 23
+Encoding: 23 57365 23
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1159,7 +1157,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k a l a
 EndChar
 
 StartChar: kama
-Encoding: 24 -1 24
+Encoding: 24 57366 24
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1193,7 +1191,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k a m a
 EndChar
 
 StartChar: kasi
-Encoding: 25 -1 25
+Encoding: 25 57367 25
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1244,7 +1242,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k a s i
 EndChar
 
 StartChar: ken
-Encoding: 26 -1 26
+Encoding: 26 57368 26
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1283,7 +1281,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k e n
 EndChar
 
 StartChar: kepeken
-Encoding: 27 -1 27
+Encoding: 27 57369 27
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1340,7 +1338,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k e p e k e n
 EndChar
 
 StartChar: kili
-Encoding: 28 -1 28
+Encoding: 28 57370 28
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1386,7 +1384,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k i l i
 EndChar
 
 StartChar: kiwen
-Encoding: 29 -1 29
+Encoding: 29 57371 29
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1432,7 +1430,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k i w e n
 EndChar
 
 StartChar: kon
-Encoding: 30 -1 30
+Encoding: 30 57372 30
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1476,7 +1474,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k o n
 EndChar
 
 StartChar: ko
-Encoding: 31 -1 31
+Encoding: 31 57373 31
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1542,7 +1540,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k o
 EndChar
 
 StartChar: kule
-Encoding: 32 -1 32
+Encoding: 32 57374 32
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1588,7 +1586,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k u l e
 EndChar
 
 StartChar: kulupu
-Encoding: 33 -1 33
+Encoding: 33 57375 33
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1630,7 +1628,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k u l u p u
 EndChar
 
 StartChar: kute
-Encoding: 34 -1 34
+Encoding: 34 57376 34
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1674,7 +1672,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" k u t e
 EndChar
 
 StartChar: lape
-Encoding: 35 -1 35
+Encoding: 35 57377 35
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1704,7 +1702,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l a p e
 EndChar
 
 StartChar: laso
-Encoding: 36 -1 36
+Encoding: 36 57378 36
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1764,7 +1762,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l a s o
 EndChar
 
 StartChar: lawa
-Encoding: 37 -1 37
+Encoding: 37 57379 37
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1805,7 +1803,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l a w a
 EndChar
 
 StartChar: la
-Encoding: 38 -1 38
+Encoding: 38 57380 38
 Width: 708
 Flags: W
 LayerCount: 2
@@ -1833,7 +1831,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l a
 EndChar
 
 StartChar: len
-Encoding: 39 -1 39
+Encoding: 39 57381 39
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1879,7 +1877,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l e n
 EndChar
 
 StartChar: lete
-Encoding: 40 -1 40
+Encoding: 40 57382 40
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1925,7 +1923,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l e t e
 EndChar
 
 StartChar: lili
-Encoding: 41 -1 41
+Encoding: 41 57383 41
 Width: 708
 Flags: W
 LayerCount: 2
@@ -1951,7 +1949,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l i l i
 EndChar
 
 StartChar: linja
-Encoding: 42 -1 42
+Encoding: 42 57384 42
 Width: 850
 Flags: W
 LayerCount: 2
@@ -1986,7 +1984,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l i n j a
 EndChar
 
 StartChar: lipu
-Encoding: 43 -1 43
+Encoding: 43 57385 43
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2012,7 +2010,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l i p u
 EndChar
 
 StartChar: li
-Encoding: 44 -1 44
+Encoding: 44 57386 44
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2038,7 +2036,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l i
 EndChar
 
 StartChar: loje
-Encoding: 45 -1 45
+Encoding: 45 57387 45
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2080,7 +2078,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l o j e
 EndChar
 
 StartChar: lon
-Encoding: 46 -1 46
+Encoding: 46 57388 46
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2113,7 +2111,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l o n
 EndChar
 
 StartChar: luka
-Encoding: 47 -1 47
+Encoding: 47 57389 47
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2149,7 +2147,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l u k a
 EndChar
 
 StartChar: lukin
-Encoding: 48 -1 48
+Encoding: 48 57390 48
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2192,7 +2190,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l u k i n
 EndChar
 
 StartChar: lupa
-Encoding: 49 -1 49
+Encoding: 49 57391 49
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2226,7 +2224,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" l u p a
 EndChar
 
 StartChar: mama
-Encoding: 50 -1 50
+Encoding: 50 57392 50
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2265,7 +2263,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m a m a
 EndChar
 
 StartChar: mani
-Encoding: 51 -1 51
+Encoding: 51 57393 51
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2306,7 +2304,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m a n i
 EndChar
 
 StartChar: ma
-Encoding: 52 -1 52
+Encoding: 52 57394 52
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2356,7 +2354,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m a
 EndChar
 
 StartChar: meli
-Encoding: 53 -1 53
+Encoding: 53 57395 53
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2395,7 +2393,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m e l i
 EndChar
 
 StartChar: mije
-Encoding: 54 -1 54
+Encoding: 54 57396 54
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2432,7 +2430,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m i j e
 EndChar
 
 StartChar: mi
-Encoding: 55 -1 55
+Encoding: 55 57397 55
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2463,7 +2461,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m i
 EndChar
 
 StartChar: moku
-Encoding: 56 -1 56
+Encoding: 56 57398 56
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2510,7 +2508,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m o k u
 EndChar
 
 StartChar: moli
-Encoding: 57 -1 57
+Encoding: 57 57399 57
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2584,7 +2582,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m o l i
 EndChar
 
 StartChar: monsi
-Encoding: 58 -1 58
+Encoding: 58 57400 58
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2623,7 +2621,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m o n s i
 EndChar
 
 StartChar: mun
-Encoding: 59 -1 59
+Encoding: 59 57401 59
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2655,7 +2653,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m u n
 EndChar
 
 StartChar: musi
-Encoding: 60 -1 60
+Encoding: 60 57402 60
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2698,7 +2696,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m u s i
 EndChar
 
 StartChar: mute
-Encoding: 61 -1 61
+Encoding: 61 57403 61
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2802,7 +2800,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" m u
 EndChar
 
 StartChar: nanpa
-Encoding: 63 -1 63
+Encoding: 63 57404 63
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2873,7 +2871,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" n a n p a
 EndChar
 
 StartChar: nasa
-Encoding: 64 -1 64
+Encoding: 64 57405 64
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2918,7 +2916,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" n a s a
 EndChar
 
 StartChar: nasin
-Encoding: 65 -1 65
+Encoding: 65 57406 65
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2954,7 +2952,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" n a s i n
 EndChar
 
 StartChar: nena
-Encoding: 66 -1 66
+Encoding: 66 57407 66
 Width: 850
 Flags: W
 LayerCount: 2
@@ -2987,7 +2985,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" n e n a
 EndChar
 
 StartChar: nimi
-Encoding: 67 -1 67
+Encoding: 67 57408 67
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3032,7 +3030,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" n i m i
 EndChar
 
 StartChar: ni
-Encoding: 68 -1 68
+Encoding: 68 57409 68
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3066,7 +3064,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" n i
 EndChar
 
 StartChar: noka
-Encoding: 69 -1 69
+Encoding: 69 57410 69
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3106,7 +3104,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" n o k a
 EndChar
 
 StartChar: olin
-Encoding: 70 -1 70
+Encoding: 70 57411 70
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3231,7 +3229,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o l i n
 EndChar
 
 StartChar: ona
-Encoding: 71 -1 71
+Encoding: 71 57412 71
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3259,7 +3257,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o n a
 EndChar
 
 StartChar: open
-Encoding: 72 -1 72
+Encoding: 72 57413 72
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3299,8 +3297,8 @@ Validated: 9
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o p e n
 EndChar
 
-StartChar: o.space,oo,o.exclam
-Encoding: 73 -1 73
+StartChar: oo
+Encoding: 73 57414 73
 Width: 708
 Flags: W
 LayerCount: 2
@@ -3330,18 +3328,18 @@ SplineSet
  317.56491 127.07382 322.44722 131.95613 329.76053 131.95613 c 0
 EndSplineSet
 Validated: 521
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o nbspace
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o nonmarkingreturn
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o colon
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o comma
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o period
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o o
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o space
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o exclam
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o space
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o o
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o period
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o comma
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o colon
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o nonmarkingreturn
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" o nbspace
 EndChar
 
 StartChar: pakala
-Encoding: 74 -1 74
+Encoding: 74 57415 74
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3386,7 +3384,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p a k a l a
 EndChar
 
 StartChar: palisa
-Encoding: 75 -1 75
+Encoding: 75 57416 75
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3420,7 +3418,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p a l i s a
 EndChar
 
 StartChar: pali
-Encoding: 76 -1 76
+Encoding: 76 57417 76
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3461,7 +3459,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p a l i
 EndChar
 
 StartChar: pana
-Encoding: 77 -1 77
+Encoding: 77 57418 77
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3525,7 +3523,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p a n a
 EndChar
 
 StartChar: pan
-Encoding: 78 -1 78
+Encoding: 78 57419 78
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3579,7 +3577,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p a n
 EndChar
 
 StartChar: pilin
-Encoding: 79 -1 79
+Encoding: 79 57420 79
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3633,7 +3631,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p i l i n
 EndChar
 
 StartChar: pimeja
-Encoding: 80 -1 80
+Encoding: 80 57421 80
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3681,7 +3679,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p i m e j a
 EndChar
 
 StartChar: pini
-Encoding: 81 -1 81
+Encoding: 81 57422 81
 Width: 850
 Flags: W
 LayerCount: 2
@@ -3725,7 +3723,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p i n i
 EndChar
 
 StartChar: pipi
-Encoding: 82 -1 82
+Encoding: 82 57423 82
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -3809,7 +3807,6 @@ SplineSet
  354 719 354 719 354 719 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p i p i
 EndChar
 
@@ -3837,12 +3834,11 @@ SplineSet
  0 818 22 840 48 840 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p i
 EndChar
 
 StartChar: poka
-Encoding: 84 -1 84
+Encoding: 84 57424 84
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -3878,12 +3874,11 @@ SplineSet
  732 432 727 437 720 437 c 4
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p o k a
 EndChar
 
 StartChar: poki
-Encoding: 85 -1 85
+Encoding: 85 57425 85
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -3909,12 +3904,11 @@ SplineSet
  0 818 22 840 48 841 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p o k i
 EndChar
 
 StartChar: pona
-Encoding: 86 -1 86
+Encoding: 86 57426 86
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -3940,12 +3934,11 @@ SplineSet
  -0 452 22 474 48 475 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p o n a
 EndChar
 
 StartChar: pu
-Encoding: 87 -1 87
+Encoding: 87 57427 87
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4025,12 +4018,11 @@ SplineSet
  329 426 329 426 329 426 c 0
 EndSplineSet
 Validated: 9
-LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" p u
 EndChar
 
 StartChar: sama
-Encoding: 88 -1 88
+Encoding: 88 57428 88
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4060,12 +4052,11 @@ SplineSet
  49 277 l 2
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s a m a
 EndChar
 
 StartChar: seli
-Encoding: 89 -1 89
+Encoding: 89 57429 89
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4115,12 +4106,11 @@ SplineSet
  427 127 422 132 415 132 c 4
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s e l i
 EndChar
 
 StartChar: selo
-Encoding: 90 -1 90
+Encoding: 90 57430 90
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4168,12 +4158,11 @@ SplineSet
  226 841 229 841 231 841 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s e l o
 EndChar
 
 StartChar: seme
-Encoding: 91 -1 91
+Encoding: 91 57431 91
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4220,12 +4209,11 @@ SplineSet
  427 127 422 132 415 132 c 4
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s e m e
 EndChar
 
 StartChar: sewi
-Encoding: 92 -1 92
+Encoding: 92 57432 92
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4285,12 +4273,11 @@ SplineSet
  635 658 634 658 634 658 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s e w i
 EndChar
 
 StartChar: sijelo
-Encoding: 93 -1 93
+Encoding: 93 57433 93
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4326,12 +4313,11 @@ SplineSet
  409 841 412 841 414 841 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 5 0 0 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s i j e l o
 EndChar
 
 StartChar: sike
-Encoding: 94 -1 94
+Encoding: 94 57434 94
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4367,12 +4353,11 @@ SplineSet
  281 500 340 559 415 559 c 0
 EndSplineSet
 Validated: 9
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s i k e
 EndChar
 
 StartChar: sina
-Encoding: 95 -1 95
+Encoding: 95 57435 95
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4397,12 +4382,11 @@ SplineSet
  298 316 357 376 432 376 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s i n a
 EndChar
 
 StartChar: sinpin
-Encoding: 96 -1 96
+Encoding: 96 57436 96
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4437,12 +4421,11 @@ SplineSet
  733 432 728 437 721 437 c 4
 EndSplineSet
 Validated: 1
-LCarets2: 5 0 0 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s i n p i n
 EndChar
 
 StartChar: sin
-Encoding: 97 -1 97
+Encoding: 97 57437 97
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4484,12 +4467,11 @@ SplineSet
  537 107 l 2
 EndSplineSet
 Validated: 5
-LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s i n
 EndChar
 
 StartChar: sitelen
-Encoding: 98 -1 98
+Encoding: 98 57438 98
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4547,12 +4529,11 @@ SplineSet
  598 499 598 499 597 499 c 0
 EndSplineSet
 Validated: 9
-LCarets2: 6 0 0 0 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s i t e l e n
 EndChar
 
 StartChar: sona
-Encoding: 99 -1 99
+Encoding: 99 57439 99
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4606,12 +4587,11 @@ SplineSet
  98 498 l 1
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s o n a
 EndChar
 
 StartChar: soweli
-Encoding: 100 -1 100
+Encoding: 100 57440 100
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4701,12 +4681,11 @@ SplineSet
  366 353 365 353 365 353 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 5 0 0 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s o w e l i
 EndChar
 
 StartChar: suli
-Encoding: 101 -1 101
+Encoding: 101 57441 101
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4728,12 +4707,11 @@ SplineSet
  49 840 50 840 50 840 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s u l i
 EndChar
 
 StartChar: suno
-Encoding: 102 -1 102
+Encoding: 102 57442 102
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4784,12 +4762,11 @@ SplineSet
  224 535 305 616 408 620 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s u n o
 EndChar
 
 StartChar: supa
-Encoding: 103 -1 103
+Encoding: 103 57443 103
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4829,12 +4806,11 @@ SplineSet
  171 596 171 596 171 596 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s u p a
 EndChar
 
 StartChar: suwi
-Encoding: 104 -1 104
+Encoding: 104 57444 104
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4880,12 +4856,11 @@ SplineSet
  427 127 422 132 415 132 c 4
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" s u w i
 EndChar
 
 StartChar: tan
-Encoding: 105 -1 105
+Encoding: 105 57445 105
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4924,12 +4899,11 @@ SplineSet
  385 813 437 840 493 840 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t a n
 EndChar
 
 StartChar: taso
-Encoding: 106 -1 106
+Encoding: 106 57446 106
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4959,12 +4933,11 @@ SplineSet
  780 840 780 840 780 840 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t a s o
 EndChar
 
 StartChar: tawa
-Encoding: 107 -1 107
+Encoding: 107 57447 107
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -4994,12 +4967,11 @@ SplineSet
  444 830 461 839 475 840 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t a w a
 EndChar
 
 StartChar: telo
-Encoding: 108 -1 108
+Encoding: 108 57448 108
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5037,12 +5009,11 @@ SplineSet
  44 355 134 399 231 399 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t e l o
 EndChar
 
 StartChar: tenpo
-Encoding: 109 -1 109
+Encoding: 109 57449 109
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5083,12 +5054,11 @@ SplineSet
  415 719 414 719 414 719 c 0
 EndSplineSet
 Validated: 9
-LCarets2: 4 0 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t e n p o
 EndChar
 
 StartChar: toki
-Encoding: 110 -1 110
+Encoding: 110 57450 110
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5144,12 +5114,11 @@ SplineSet
  135 449 232 547 354 547 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t o k i
 EndChar
 
 StartChar: tomo
-Encoding: 111 -1 111
+Encoding: 111 57451 111
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5176,12 +5145,11 @@ SplineSet
  415 722 l 5
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t o m o
 EndChar
 
 StartChar: tu
-Encoding: 112 -1 112
+Encoding: 112 57452 112
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5213,12 +5181,11 @@ SplineSet
  614 840 614 840 614 840 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" t u
 EndChar
 
 StartChar: unpa
-Encoding: 113 -1 113
+Encoding: 113 57453 113
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5277,12 +5244,11 @@ SplineSet
  370 279 359 289 348 298 c 1
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u n p a
 EndChar
 
 StartChar: utala
-Encoding: 114 -1 114
+Encoding: 114 57454 114
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5320,12 +5286,11 @@ SplineSet
  782 840 782 840 783 840 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 4 0 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u t a l a
 EndChar
 
 StartChar: uta
-Encoding: 115 -1 115
+Encoding: 115 57455 115
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5359,12 +5324,11 @@ SplineSet
  403 127 408 132 415 132 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u t a
 EndChar
 
 StartChar: walo
-Encoding: 116 -1 116
+Encoding: 116 57456 116
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5403,12 +5367,11 @@ SplineSet
  415 681 l 1
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" w a l o
 EndChar
 
 StartChar: wan
-Encoding: 117 -1 117
+Encoding: 117 57457 117
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5431,12 +5394,11 @@ SplineSet
  565 840 564 840 564 840 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" w a n
 EndChar
 
 StartChar: waso
-Encoding: 118 -1 118
+Encoding: 118 57458 118
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5484,12 +5446,11 @@ SplineSet
  232 474 l 2
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" w a s o
 EndChar
 
 StartChar: wawa
-Encoding: 119 -1 119
+Encoding: 119 57459 119
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5527,12 +5488,11 @@ SplineSet
  549 317 490 376 415 376 c 4
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" w a w a
 EndChar
 
 StartChar: weka
-Encoding: 120 -1 120
+Encoding: 120 57460 120
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5580,12 +5540,11 @@ SplineSet
  266 345 281 352 292 352 c 0
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" w e k a
 EndChar
 
 StartChar: wile
-Encoding: 121 -1 121
+Encoding: 121 57461 121
 Width: 850
 Flags: HW
 LayerCount: 2
@@ -5636,7 +5595,6 @@ SplineSet
  125 803 173 830 227 830 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" w i l e
 EndChar
 
