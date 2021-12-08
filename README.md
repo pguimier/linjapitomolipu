@@ -26,6 +26,7 @@ I don't know the author of the site, but I would like to. If someone knows it, c
 
 
 Toki pona is a constructed language using only about 120 words.
+0.7 version introduces 32 new words. 
 
 More infos here :
 - http://tokipona.org
