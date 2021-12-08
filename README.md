@@ -22,6 +22,7 @@ I don't know the author of the site, but I would like to. If someone knows it, c
 
 ![linja pi tomo lipu sample](nimi-ali.png)
 
+![new ku words in 0.7 version](nimiku_v07.png)
 
 
 Toki pona is a constructed language using only about 120 words.
