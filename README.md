@@ -4,7 +4,9 @@
 
 lipu ni li pini, taso jan ale ken lukin e ona kepeken e ni : https://web.archive.org/web/20190222101854/http://www.tomo-lipu.net:80/
 
-mi sona ala e jan li pali e ni, taso sina ken toki mi kepeken ilo Telegram/Reddit/Discord #toki-pona-taso
+~~mi sona ala e jan li pali e ni, taso sina ken toki mi kepeken ilo Telegram/Reddit/Discord #toki-pona-taso~~
+
+jan mama wan pi sitelen ni li jan Kitoputije (Christophe Bouteiller).
 
 
 ----
