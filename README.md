@@ -11,13 +11,15 @@ mi sona ala e jan li pali e ni, taso sina ken toki mi kepeken ilo Telegram/Reddi
 
 `linja pi tomo lipu` is a monotype font to write texts in Toki Pona hieroglyphs.
 
-It was created and used on this website : https://web.archive.org/web/20190222101854/http://www.tomo-lipu.net:80/
+It was created and used on this website : https://web.archive.org/web/20190222101854/http://www.tomo-lipu.net:80/ (the site is no longer online)
 
 The site used it with optimized svg signs. This is a font conversion.
 
-The site is no longer online.
+The author of the 120 vanilla glyphs is Christophe Bouteiller which created also the web site under drupal with a word conversion script. 
 
-I don't know the author of the site, but I would like to. If someone knows it, contact me by Telegram/Reddit/Discord on channel toki-pona-taso. Then I will update copyright notice.
+Christoph kindly allowed me to reuse his creation, thanks to him !
+
+~~I don't know the author of the site, but I would like to. If someone knows it, contact me by Telegram/Reddit/Discord on channel toki-pona-taso. Then I will update copyright notice.~~
 
 
 ![linja pi tomo lipu sample](nimi-ali.png)
