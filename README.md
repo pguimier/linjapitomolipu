@@ -6,7 +6,7 @@ lipu ni li pini, taso jan ale ken lukin e ona kepeken e ni : https://web.archive
 
 ~~mi sona ala e jan li pali e ni, taso sina ken toki mi kepeken ilo Telegram/Reddit/Discord #toki-pona-taso~~
 
-jan mama wan pi sitelen ni li jan Kitoputije (Christophe Bouteiller).
+jan mama wan pi sitelen ni li jan Kitoputeje (Christophe Bouteiller).
 
 
 ----
